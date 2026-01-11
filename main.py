@@ -1,4 +1,4 @@
-
+# 執行方式，在vscode終端輸入： uvicorn main:app
 
 # 執行方式，在vscode終端輸入： uvicorn main:app
 import os
